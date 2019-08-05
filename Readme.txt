@@ -1,2 +1,2 @@
 hello world.
-you are wellcom!
+you are wellcome!
